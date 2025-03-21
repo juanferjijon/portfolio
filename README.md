@@ -1,7 +1,8 @@
 # **JUAN FERNANDO JIJÓN**  
 🚀 *Business Analyst | Sustainability Advocate | Data Strategist*  
 
-![Juan Fernando Jijón](Picture.jpg)  
+![Juan Fernando Jijón](Picture.jpg)  <img src="picture.jpg" alt="Juan Fernando Jijon" style="width: 130px; height: auto; object-fit: cover;">
+
 
 ## **📌 About Me**  
 Passionate about **data-driven decision-making, sustainability, and business strategy**, I leverage analytics to drive impact. With expertise in **data visualization, market research, and predictive analytics**, I strive to create solutions that bridge **technology, business intelligence, and environmental sustainability.**  
