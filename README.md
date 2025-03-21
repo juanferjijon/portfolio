@@ -1,7 +1,7 @@
 # **JUAN FERNANDO JIJÓN**  
 🚀 *Business Analyst | Sustainability Advocate | Data Strategist*  
 
-<img src="Picture.jpg" alt="Juan Fernando Jijón" style="width: 170px; height: auto; object-fit: cover;">
+<img src="Picture.jpg" alt="Juan Fernando Jijón" style="width: 270px; height: auto; object-fit: cover;">
 
 
 ## **📌 About Me**  
